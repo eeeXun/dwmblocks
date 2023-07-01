@@ -1,4 +1,4 @@
 # dwmblocks
 
 ## source
-- [torrinfail a933ce0](https://github.com/torrinfail/dwmblocks)
+- [torrinfail a933ce0 with PR #71](https://github.com/torrinfail/dwmblocks)
